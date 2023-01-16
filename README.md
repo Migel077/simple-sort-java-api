@@ -1,3 +1,7 @@
 # simple-sort-java-api
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migel077)](https://github.com/anuraghazra/github-readme-stats)
+## This api is writen by an amateur!
+
+What can do this api?
+
+> It's just a sorting Java API that can sort any class by numeric given.
